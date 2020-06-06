@@ -1,1 +1,8 @@
+Here is the code I'm using for the cleansing and study of the data and the .csv files that I've managed to produce with the code
+
+I'm coding with colab.
+
+The files:
+'exercise_36' is the initial file, the raw material
+'exercise_36_v1' preprocessing done in the data, such as column rename and dataset segregation
 
