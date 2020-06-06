@@ -5,4 +5,6 @@ I'm coding with colab.
 The files:
 'exercise_36' is the initial file, the raw material
 'exercise_36_v1' preprocessing done in the data, such as column rename and dataset segregation
+'exercise_36_functions' this is where I write and test the functions I will be using for making easy handling that ammount of data.
+  so far, there are 2 kinds: graphs and outliers remover (use the interquartile as threshold)
 
